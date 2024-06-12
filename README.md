@@ -7,6 +7,6 @@ Global Dependency Network for Transmission Line Detection Using Knowledge Distil
 
 The weights and dataset are on Baidu Cloud：
 链接：https://pan.baidu.com/s/1pj2R7508eBmT1kNZYsPa0Q 
-提取码：1234
+提取码：I'll give it to you when it's ready.
 
 If you have any questions, please contact us：1254388084@qq.com
